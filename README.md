@@ -1,1 +1,3 @@
 # FLASH-CHAT-APP
+Hi guys, this is a simple chat app which uses firebase authentication to create an account for the user and stores data using firestrore database
+Though I'm still working on the User Interface ... 
